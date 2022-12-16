@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@zabukazuzu1" target="blank"><img src="https://img.shields.io/twitter/follow/@zabukazuzu1?logo=twitter&style=for-the-badge" alt="@zabukazuzu1" /></a> </p>
 
-- 🔭 I’m currently working on [Project Flexo](https://github.com/Project-Altho)
+- 🔭 I’m currently working on [Project Flexo](https://github.com/Project-Flexo)
 
 - 🌱 I’m currently learning **AIML**
 
